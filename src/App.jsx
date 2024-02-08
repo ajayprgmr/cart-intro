@@ -1,5 +1,5 @@
 // components
-import Navbar from './Navbar'
+import Navbar from './navbar'
 import CartContainer from './cartcontainer'
 import { useGlobalContext } from './context'
 
